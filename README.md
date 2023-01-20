@@ -1,0 +1,2 @@
+# ConfirmBox
+Javascript confirm box
